@@ -1,0 +1,532 @@
+[
+  {
+    "name": "samsung TV edition1",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 400,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition2",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 800,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition3",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 1200,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition4",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 1600,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition5",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 2000,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition6",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 2400,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition7",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 2800,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition8",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 3200,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition9",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 3600,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition10",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 4000,
+    "description": "Samsung it's the company using technologies in right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition1",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 400,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition2",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 800,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition3",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 1200,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition4",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 1600,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition5",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 2000,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition6",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 2400,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition7",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 2800,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition8",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 3200,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition9",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 3600,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "samsung TV edition10",
+    "quantity": 20,
+    "color": [
+      "brown frame",
+      "black frame"
+    ],
+    "brand": "Samsung",
+    "category": "650b20887a5829260b0fc76e",
+    "price": 4000,
+    "description": "Samsung is a company that uses technologies in the right place",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x1",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 200,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x2",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 400,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x3",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 600,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x4",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 800,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x5",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 1000,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x6",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 1200,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x7",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 1400,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x8",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 1600,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x9",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 1800,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "iphone x10",
+    "quantity": 10,
+    "color": [
+      "red",
+      "black",
+      "blue"
+    ],
+    "brand": "Apple",
+    "category": "650b1986849fa37a68ee6c68",
+    "price": 2000,
+    "description": "Apple makes amazing phones all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb1",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 300,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb2",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 600,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb3",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 900,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb4",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 1200,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb5",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 1500,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb6",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 1800,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb7",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 2100,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb8",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 2400,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb9",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 2700,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  },
+  {
+    "name": "Laptop HP version mxb10",
+    "quantity": 10,
+    "color": [
+      "white",
+      "gray"
+    ],
+    "brand": "HP",
+    "category": "652815ca228820af7460a64a",
+    "price": 3000,
+    "description": "HP it's the best laptops company all over the world",
+    "imageCover": "default.jpeg"
+  }
+]
