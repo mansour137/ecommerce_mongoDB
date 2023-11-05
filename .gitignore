@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Node.js
 node_modules/
 package-lock.json
@@ -15,6 +16,8 @@ logs/
 .env.test
 .env.production
 =======
+=======
+>>>>>>> 94a04c25330d0087833d3969e0ac0e9e5a15c259
 # Logs
 logs
 *.log
@@ -145,4 +148,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 >>>>>>> bb9040ee441b4bb593a02c22f93f170593093f09
+=======
+>>>>>>> 94a04c25330d0087833d3969e0ac0e9e5a15c259
